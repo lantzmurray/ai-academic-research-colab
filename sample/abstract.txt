@@ -1,0 +1,1 @@
+This paper introduces a novel approach to reinforcement learning in sparse-reward environments. By utilizing intrinsic motivation driven by epistemic uncertainty, our agent explores more efficiently than baseline methods.

@@ -2,6 +2,10 @@
 
 A multi-agent system for academic research assistance that leverages local LLM models to provide comprehensive research support including literature review, hypothesis validation, and draft polishing.
 
+## Screenshot
+
+![AcademicResearchCollaborator](AcademicResearchCollaborator.png)
+
 ## Features
 
 - **Multi-Agent Architecture**: Three specialized agents work together to provide comprehensive research assistance
